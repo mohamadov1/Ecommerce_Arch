@@ -10,3 +10,30 @@ ui: View classes along with their corresponding Presenters.<br>
 service: Services for the application.<br>
 utils: Utility classes.<br>
 
+LIB:
+
+UI
+
+
+
+### Rx:
+RxJava
+
+### NETWORK
+Retrofit
+OkHttp
+Glide
+//Jsoup
+
+### DI
+ButterKnife
+
+### FRAGMENT
+Fragmentation
+
+LOG
+Logger
+
+### SQLITE 
+OrmLite 
+
