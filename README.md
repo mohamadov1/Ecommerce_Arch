@@ -10,14 +10,3 @@ ui: View classes along with their corresponding Presenters.<br>
 service: Services for the application.<br>
 utils: Utility classes.<br>
 
-
-Library reference resources:
-
-RxJava2: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
-Dagger2: https://github.com/MindorksOpenSource/android-dagger2-example
-FastAndroidNetworking: https://github.com/amitshekhariitbhu/Fast-Android-Networking
-PlaceHolderView: https://github.com/janishar/PlaceHolderView
-AndroidDebugDatabase: https://github.com/amitshekhariitbhu/Android-Debug-Database
-Calligraphy: https://github.com/chrisjenx/Calligraphy
-GreenDao: http://greenrobot.org/greendao/
-ButterKnife: http://jakewharton.github.io/butterknife/
