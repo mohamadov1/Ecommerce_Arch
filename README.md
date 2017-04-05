@@ -28,12 +28,9 @@ Glide
 ### DI
 ButterKnife
 
-### FRAGMENT
-Fragmentation
-
-LOG
+### LOG
 Logger
 
 ### SQLITE 
-OrmLite 
+Realm 
 
