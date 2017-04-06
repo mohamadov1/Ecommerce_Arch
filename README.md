@@ -10,20 +10,16 @@ ui: View classes along with their corresponding Presenters.<br>
 service: Services for the application.<br>
 utils: Utility classes.<br>
 
-LIB:
-
-UI
-
-
+## LIB:
 
 ### Rx:
 RxJava
 
 ### NETWORK
-Retrofit
-OkHttp
-Glide
-//Jsoup
+Retrofit<br>
+OkHttp<br>
+Glide<br>
+//Jsoup<br>
 
 ### DI
 ButterKnife
